@@ -6,10 +6,10 @@ This project is an exploration of graph data structures and their algorithms, ut
 
 ## Objectives
 
-- [ ] Understand and implement graph data structures.
-- [ ] Apply appropriate graph algorithms to solve real-world problems.
-- [ ] Use subway transit data to build a model for further analysis.
-- [ ] Learn and apply data analysis methodologies to interpret results.
+- [ ] Understand and implement graph data structures
+- [ ] Apply appropriate graph algorithms to solve real-world problems
+- [ ] Use subway transit data to build a model for further analysis
+- [ ] Learn and apply data analysis methodologies to interpret results
 
 ## Implementation
 
